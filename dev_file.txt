@@ -1,2 +1,1 @@
-Dev file
 Denna ändring är gjord i GitHub
